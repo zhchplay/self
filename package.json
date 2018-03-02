@@ -1,0 +1,11 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "json-server http://jsonplaceholder.typicode.com/db"
+  },
+  "author": "",
+  "license": "ISC"
+}
